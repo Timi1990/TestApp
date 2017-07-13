@@ -11,6 +11,7 @@ lineReader.on('line', function (line) {
     var newVar = {requestType: "deleteProduct",
         orgToken: "",
         productToken: line
+
     };
     request({
         method: "POST",
