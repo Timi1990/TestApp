@@ -9,6 +9,7 @@
   "author": "timi",
   "license": "MIT",
   "dependencies": {
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "semver": "^5.3.0"
   }
 }
